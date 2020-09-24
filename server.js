@@ -20,7 +20,7 @@ const mockEvents = {
     events: [
         { title: 'an event', id: 1, description: 'something really cool', location:'Wonderland' },
         { title: 'another event', id: 2, description: 'something even cooler', location:'Hobbit House' },
-        { title: 'Cloud22 event', id: 3, description: 'cocktail party cancelled', location: 'Seven Kingdoms Ruined' }
+        { title: 'Cloud22 event', id: 3, description: 'happy hour', location: 'House Stark' }
     ]
 };
 
